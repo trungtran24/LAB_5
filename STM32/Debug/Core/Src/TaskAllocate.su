@@ -1,0 +1,4 @@
+TaskAllocate.c:16:6:TA_init	16	static
+TaskAllocate.c:34:14:TA_malloc	16	static
+TaskAllocate.c:44:6:TA_free	16	static
+TaskAllocate.c:60:10:TA_remaining	4	static

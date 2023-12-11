@@ -1,0 +1,2 @@
+uart_printf.c:12:6:init_uart_printf	16	static
+uart_printf.c:16:1:__io_putchar	16	static

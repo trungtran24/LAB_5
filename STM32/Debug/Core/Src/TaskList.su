@@ -1,0 +1,9 @@
+TaskList.c:15:6:TL_init	8	static
+TaskList.c:23:6:TL_insert	40	static
+TaskList.c:53:6:TL_insertNode	32	static
+TaskList.c:78:8:TL_removeID	24	static
+TaskList.c:95:14:TL_removeFront	16	static
+TaskList.c:105:8:TL_getFront	4	static
+TaskList.c:112:6:TL_point_start	4	static
+TaskList.c:115:8:TL_get	16	static
+TaskList.c:123:10:TL_size	4	static
